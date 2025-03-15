@@ -2,7 +2,9 @@
 Production Deployment of NPRI Machine Learning Project
  
 ## Team members
- 
+
+Mario
+
 Abi Afolabi
  
 Abiola Bakare  
@@ -108,3 +110,4 @@ To run the predict_api.py, on a terminal run:
  
  Note: The port number in the curl script must match the one defined in the predict_api.py file.
  
+
